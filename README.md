@@ -12,8 +12,8 @@ Awesome list of data export pages/tools for most common online services
 
 ## Search Engines
 
-* [Google](https://takeout.google.com)) - Google Takeout, online Google tool to request your personal data collected by any Google service
-* [Microsoft](https://account.microsoft.com/privacy/activity-history?view=voice)) - export your data from Microsoft services, including search
+* [Google](https://takeout.google.com) - Google Takeout, online Google tool to request your personal data collected by any Google service
+* [Microsoft](https://account.microsoft.com/privacy/activity-history?view=voice) - export your data from Microsoft services, including search
 * [Yandex](http://yandex.ru) - no online tool yet, send letter to support@yandex.ru, not guaranteed since lack of Yandex public declaration on data export
 
 ## Social Networks
@@ -29,7 +29,7 @@ Awesome list of data export pages/tools for most common online services
 
 ## Business tools
 
-* [Slack](https://slack.com/intl/en-fr/help/articles/201658943)) - export Slack data 
+* [Slack](https://slack.com/intl/en-fr/help/articles/201658943) - export Slack data 
 * [Trello](https://trello.com) - go to "Profile and Visibility", next "Settings", find "Personal Data Export" with url to download personal data
 
 ## Other services
