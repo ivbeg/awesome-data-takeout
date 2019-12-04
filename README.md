@@ -18,8 +18,8 @@ Awesome list of data export pages/tools for most common online services
 
 ## Social Networks
 
-* [Facebook](https://www.facebook.com/help/1701730696756992)) - instruction how to get archive of all your data at Facebook
-* [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)) - instruction how to get archive of all your tweets from Twitter\
+* [Facebook](https://www.facebook.com/help/1701730696756992) - instruction how to get archive of all your data at Facebook
+* [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) - instruction how to get archive of all your tweets from Twitter\
 * [Vkontakte](https://vk.com/data_protection) - service to request all your data from Vkontakte, Russian most popular social network
 * [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
 
