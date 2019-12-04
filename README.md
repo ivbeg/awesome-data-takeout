@@ -33,7 +33,7 @@ Awesome list of data export pages/tools for most common online services
 * [Trello](https://trello.com) - go to "Profile and Visibility", next "Settings", find "Personal Data Export" with url to download personal data
 
 ## Other services
-
+* [Flickr](https://www.flickr.com/account/) - find "Your Flickr Data" part of the webpage and request your data. It will be sent to your linked email.
 * [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
 
 ## Finances
