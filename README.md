@@ -22,6 +22,7 @@ Awesome list of data export pages/tools for most common online services
 * [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) - instruction how to get archive of all your tweets from Twitter\
 * [Vkontakte](https://vk.com/data_protection) - service to request all your data from Vkontakte, Russian most popular social network
 * [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
+* [Instagram](https://www.instagram.com/download/request/) - export your Instagram data
 
 ## Messengers
 
@@ -35,6 +36,7 @@ Awesome list of data export pages/tools for most common online services
 ## Other services
 * [Flickr](https://www.flickr.com/account/) - find "Your Flickr Data" part of the webpage and request your data. It will be sent to your linked email.
 * [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
+* [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
 
 ## Finances
 * [PayPal](https://business.paypal.com/merchantdata/consumerHome) - download activity data as CSV, TAB, Quicken and other data types
