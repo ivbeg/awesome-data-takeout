@@ -27,9 +27,10 @@ Awesome list of data export pages/tools for most common online services
 * [Twitter]([https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)) - instruction how to get archive of all your tweets from Twitter\
 
 * [Vkontakte](https://vk.com/data_protection) - service to request all your data from Vkontakte, Russian most popular social network
+* [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
+* [Instagram](https://www.instagram.com/download/request/) - export your Instagram data
 
 ## Messengers
-
 * Telegram - open desktop app, use 'Settings', next "Advanced", and click "Export Telegram Data"
 
 ## Business tools
@@ -37,5 +38,12 @@ Awesome list of data export pages/tools for most common online services
 * [Slack]([https://slack.com/intl/en-fr/help/articles/201658943](https://slack.com/intl/en-fr/help/articles/201658943)) - export Slack data 
 
 * [https://www.linkedin.com/psettings/member-data](https://www.linkedin.com/psettings/member-data) - export LinkedIn
+
+## Other services
+* [Flickr](https://www.flickr.com/account/) - find "Your Flickr Data" part of the webpage and request your data. It will be sent to your linked email.
+
+* [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
+
+* [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
 
 * [https://trello.com](https://trello.com) - open profile, click "Settings" and use link "Export personal data"
