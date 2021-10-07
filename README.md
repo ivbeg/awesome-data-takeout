@@ -24,7 +24,7 @@ Awesome list of data export pages/tools for most common online services
 
 * [Facebook](https://www.facebook.com/dyi/) - "Download your information" service, allows to download all your data from Facebook
 
-* [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) - instruction how to get archive of all your tweets from Twitter\
+* [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) - instruction how to get archive of all your tweets from Twitter
 
 * [Vkontakte](https://vk.com/data_protection) - service to request all your data from Vkontakte, Russian most popular social network
 * [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
@@ -37,7 +37,6 @@ Awesome list of data export pages/tools for most common online services
 
 * [Slack](https://slack.com/intl/en-fr/help/articles/201658943) - export Slack data 
 
-* [https://www.linkedin.com/psettings/member-data](https://www.linkedin.com/psettings/member-data) - export LinkedIn
 
 ## Other services
 * [Flickr](https://www.flickr.com/account/) - find "Your Flickr Data" part of the webpage and request your data. It will be sent to your linked email.
