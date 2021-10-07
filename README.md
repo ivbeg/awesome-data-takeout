@@ -18,13 +18,13 @@ Awesome list of data export pages/tools for most common online services
 
 * [Microsoft](https://account.microsoft.com/privacy/activity-history?view=voice) - export your data from Microsoft services, including search
 
-* [Yandex](https://yandex.ru) - send letter to support@yandex.ru, not guaranteed since lack of Yandex public declaration on data export
+* [Yandex](https://passport.yandex.ru/profile/data) - get all your data from all of Yandex services
 
 ## Social Networks
 
 * [Facebook](https://www.facebook.com/dyi/) - "Download your information" service, allows to download all your data from Facebook
 
-* [Twitter](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) - instruction how to get archive of all your tweets from Twitter
+* [Twitter](https://twitter.com/settings/download_your_data) - instruction how to get archive of all your tweets from Twitter
 
 * [Vkontakte](https://vk.com/data_protection) - service to request all your data from Vkontakte, Russian most popular social network
 * [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
