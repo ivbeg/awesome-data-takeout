@@ -18,11 +18,11 @@ Awesome list of data export pages/tools for most common online services
 
 * [Microsoft]([https://account.microsoft.com/privacy/export](https://account.microsoft.com/privacy/activity-history?view=voice)) - export your data from Microsoft services, including search
 
-* [Yandex] - send letter to support@yandex.ru, not guaranteed since lack of Yandex public declaration on data export
+* [Yandex](https://yandex.ru) - send letter to support@yandex.ru, not guaranteed since lack of Yandex public declaration on data export
 
 ## Social Networks
 
-* [Facebook]([https://www.facebook.com/help/1701730696756992](https://www.facebook.com/help/1701730696756992)) - instruction how to get archive of all your data at Facebook
+* [Facebook](https://www.facebook.com/dyi/) - "Download your information" service, allows to download all your data from Facebook
 
 * [Twitter]([https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)) - instruction how to get archive of all your tweets from Twitter\
 
@@ -46,4 +46,4 @@ Awesome list of data export pages/tools for most common online services
 
 * [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
 
-* [https://trello.com](https://trello.com) - open profile, click "Settings" and use link "Export personal data"
+* [Trello](https://trello.com) - open profile, click "Settings" and use link "Export personal data"
