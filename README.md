@@ -33,7 +33,7 @@ Awesome list of data export pages/tools for most common online services
 ## Business tools
 
 * [Slack](https://slack.com/intl/en-fr/help/articles/201658943) - export Slack data 
-
+* [Notion](https://www.notion.so/help/export-your-content#export-your-entire-workspace) - simple guide on how to export whole workspace
 
 ## Developer tools and services
 
