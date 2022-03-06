@@ -9,6 +9,7 @@ Awesome list of data export pages/tools for most common online services
 * [Messengers](#messengers)
 * [Business Tools](#business-tools)
 * [Developer tools and services](#developer-tools-and-services)
+* [Sport](#sport)
 * [Other services](#other-services)
 
 ## Search Engines
@@ -42,7 +43,7 @@ Awesome list of data export pages/tools for most common online services
 
 ## Sport
 
-[Strava)(https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export) - exporting your Strava data and bulk export
+[Strava](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export) - exporting your Strava data and bulk export
 
 
 ## Other services
