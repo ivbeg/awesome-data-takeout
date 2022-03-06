@@ -34,10 +34,15 @@ Awesome list of data export pages/tools for most common online services
 
 * [Slack](https://slack.com/intl/en-fr/help/articles/201658943) - export Slack data 
 * [Notion](https://www.notion.so/help/export-your-content#export-your-entire-workspace) - simple guide on how to export whole workspace
+* [Mailchimp](https://mailchimp.com/help/export-back-up-data/) - export and backup your data from Mailchimp account
 
 ## Developer tools and services
 
 * [Github](https://docs.github.com/en/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data) - requesting an archive of your personal account’s data
+
+## Sport
+
+[Strava)(https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export) - exporting your Strava data and bulk export
 
 
 ## Other services
