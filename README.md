@@ -7,6 +7,7 @@ Awesome list of data export pages/tools for most common online services
 * [Search-engines](#search-engines)
 * [Social networks](#social-networks)
 * [Messengers](#messengers)
+* [Email](#email)
 * [Business tools](#business-tools)
 * [Developer tools and services](#developer-tools-and-services)
 * [Password managers](#password-managers)
@@ -35,8 +36,12 @@ Awesome list of data export pages/tools for most common online services
 * [Viber](https://help.viber.com/en/article/request-review-and-delete-your-data-on-viber) - an article about how to request, review or delete your data from Viber
 * [Whatsapp](https://faq.whatsapp.com/general/account-and-profile/how-to-request-your-account-information/?lang=en) - request your account info excluding chat history which must be exported separately ([learn more](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en))
 
+## Email
+* [ProtonMail](https://protonmail.com/import-export) - ProtonMail import-export tools allows to export emails to mbox/eml file formats
+
 ## Business tools
 
+* [Google Workplace](https://admin.google.com/ac/customertakeout)
 * [Slack](https://slack.com/intl/en-fr/help/articles/201658943) - export Slack data 
 * [Notion](https://www.notion.so/help/export-your-content#export-your-entire-workspace) - simple guide on how to export whole workspace
 * [Mailchimp](https://mailchimp.com/help/export-back-up-data/) - export and backup your data from Mailchimp account
