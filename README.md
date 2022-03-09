@@ -29,6 +29,8 @@ Awesome list of data export pages/tools for most common online services
 * [VK](https://vk.com/data_protection) - service to request all your data from Vkontakte, most popular social network in Russia and CIS countries
 * [LinkedIn](https://www.linkedin.com/psettings/member-data) - export your LinkedIn data
 * [Instagram](https://www.instagram.com/download/request/) - export your Instagram data
+* [TikTok](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data) - easily request and download an account archive within 4 days using their mobile app
+* [Clubhouse](https://clubhouseapp.zendesk.com/hc/en-us/requests/new?ticket_form_id=1900000769305) - fill this form to request personal data or send an email to [support@clubhouse.com](mailto:support@clubhouse.com) with your explicit request
 
 ## Messengers
 
@@ -37,6 +39,7 @@ Awesome list of data export pages/tools for most common online services
 * [Whatsapp](https://faq.whatsapp.com/general/account-and-profile/how-to-request-your-account-information/?lang=en) - request your account info excluding chat history which must be exported separately ([learn more](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en))
 
 ## Email
+
 * [ProtonMail](https://protonmail.com/import-export) - ProtonMail import-export tools allows to export emails to mbox/eml file formats
 
 ## Business tools
@@ -75,3 +78,4 @@ Awesome list of data export pages/tools for most common online services
 * [Flickr](https://www.flickr.com/account/) - find "Your Flickr Data" part of the webpage and request your data. It will be sent to your linked email.
 * [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
 * [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
+* [Spotify](https://www.spotify.com/account/privacy/) - use "Download your data" tool in your account page ([learn more](https://support.spotify.com/us/article/data-rights-and-privacy-settings/))
