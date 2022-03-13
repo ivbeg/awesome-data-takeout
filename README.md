@@ -13,6 +13,7 @@ Awesome list of data export pages/tools for most common online services
 * [Password managers](#password-managers)
 * [Blogging](#blogging)
 * [Sport](#sport)
+* [Streaming](#streaming)
 * [Other services](#other-services)
 
 ## Search Engines
@@ -72,6 +73,10 @@ Awesome list of data export pages/tools for most common online services
 
 * [Strava](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export) - exporting your Strava data and bulk export
 * [Garmin](https://support.garmin.com/en-US/?faq=q22kMdCbU23NUT2Wmspz16) - export your profile data, fitness activities, order history and information from Garmin applications
+
+## Streaming
+
+* [Netflix](https://www.netflix.com/account/getmyinfo) - request copy of your personal data on Netflix
 
 ## Other services
 
