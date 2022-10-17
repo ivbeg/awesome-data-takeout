@@ -51,28 +51,34 @@ Awesome list of data export pages/tools for most common online services
 * [Mailchimp](https://mailchimp.com/help/export-back-up-data/) - export and backup your data from Mailchimp account
 * [Trello](https://trello.com) - open profile, click "Settings" and use link "Export personal data"
 * [Miro](https://help.miro.com/hc/en-us/articles/360017572754-How-to-export-your-board) - export your board in several ways or [make an importable backup](https://help.miro.com/hc/en-us/articles/360017572774) of a board
+* [Monday.com](https://support.monday.com/hc/en-us/articles/360002543719-How-to-export-your-entire-account-s-data) -  how to export your entire account's data
+* [Front](https://help.front.com/t/182vg7/how-to-export-your-teams-front-account-data) - how to export your team's Front account data
 
 ## Developer tools and services
 
 * [GitHub](https://docs.github.com/en/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data) - requesting an archive of your personal account’s data
 * [Postman](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#exporting-postman-data) - backup your collections, environments, etc. Also they have [this useful section](https://www.postman.com/legal/privacy-policy/#how-to-access-and-control-your-information) in privacy policy about how to access and control your information
+* [Jira Cloud](https://support.atlassian.com/jira-cloud-administration/docs/export-issues/) - export data from Jira Cloud
 
 ## Password managers
 
 * [1Password](https://support.1password.com/export/) - you can export your data if you want to move it to a different app
 * [Bitwarden](https://bitwarden.com/help/export-your-data/) - export whole vault
 * [LastPass](https://support.logmeininc.com/lastpass/help/export-your-passwords-and-secure-notes-lp040004) - help section about exporting passwords and other saved data
+* [DashLane](https://support.dashlane.com/hc/en-us/articles/202625092-Export-data-from-Dashlane) -  Export data from Dashlane
 
 ## Blogging
 
 * [Medium](https://help.medium.com/hc/en-us/articles/115004745787-Export-your-account-data) - export your account data
 * [Wordpress](https://wordpress.com/support/export/) - download your blog content and media files
 * [Blogger](https://support.google.com/blogger/answer/41387?hl=en) - how to backup content (including comments) and current theme
+* [Tumblr](https://help.tumblr.com/hc/en-us/articles/360005118894-Export-Your-Blog) - export your Tumblr blog
 
 ## Sport
 
 * [Strava](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export) - exporting your Strava data and bulk export
 * [Garmin](https://support.garmin.com/en-US/?faq=q22kMdCbU23NUT2Wmspz16) - export your profile data, fitness activities, order history and information from Garmin applications
+* [Fitbit](https://help.fitbit.com/articles/en_US/Help_article/1133.htm) - export your Fitbit account data
 
 ## Streaming
 
