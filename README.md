@@ -8,6 +8,7 @@ Awesome list of data export pages/tools for most common online services
 * [Social networks](#social-networks)
 * [Messengers](#messengers)
 * [Email](#email)
+* [AI Chat (LLM)](#ai-chat-llm)
 * [Business tools](#business-tools)
 * [Developer tools and services](#developer-tools-and-services)
 * [Password managers](#password-managers)
@@ -43,6 +44,12 @@ Awesome list of data export pages/tools for most common online services
 
 * [ProtonMail](https://protonmail.com/import-export) - ProtonMail import-export tools allows to export emails to mbox/eml file formats
 
+
+## AI Chat (LLM)
+
+* [Claude Data Export](https://claude.ai) - request your Claude data export from Anthropic
+* [Gemini Apps Activity](https://takeout.google.com) - export your Gemini chat activity via Google Takeout
+* [chat-takeout-md](https://github.com/patrickschiller/chat-takeout-md) - CLI tool to convert Claude and Gemini exports into portable Markdown archives with attachments (offline-first, zero dependencies)
 ## Business tools
 
 * [Google Workplace](https://admin.google.com/ac/customertakeout)
