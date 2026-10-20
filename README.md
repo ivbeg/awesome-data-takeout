@@ -7,6 +7,7 @@ Awesome list of data export pages/tools for most common online services
 * [Search-engines](#search-engines)
 * [Social networks](#social-networks)
 * [Messengers](#messengers)
+* [AI Chat Services](#ai-chat-services)
 * [Email](#email)
 * [Business tools](#business-tools)
 * [Developer tools and services](#developer-tools-and-services)
@@ -39,6 +40,14 @@ Awesome list of data export pages/tools for most common online services
 * [Telegram](https://telegram.org/blog/export-and-more) - open desktop app, use "Settings" > "Advanced" > "Export Telegram Data"
 * [Viber](https://help.viber.com/en/article/request-review-and-delete-your-data-on-viber) - an article about how to request, review or delete your data from Viber
 * [Whatsapp](https://faq.whatsapp.com/general/account-and-profile/how-to-request-your-account-information/?lang=en) - request your account info excluding chat history which must be exported separately ([learn more](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en))
+
+## AI Chat Services
+
+* [ChatGPT](https://help.openai.com/en/articles/7260999-exporting-your-chatgpt-history-and-data) - Settings > Data controls > Export data
+* [Claude](https://support.claude.com/en/articles/9450526-export-your-claude-data) - Settings > Privacy > Export data
+* [Gemini](https://takeout.google.com) - request your Gemini conversations through Google Takeout
+* [DeepSeek](https://www.deepseek.com/) - Settings > Data management > Export all conversations (download link valid for 7 days)
+* [ai-chat-memory-migrator](https://github.com/douaru-chen2026/ai-chat-memory-migrator) - clean, organize and migrate AI chat exports (Doubao/ChatGPT/Chatbox/DeepSeek/...) into a portable, searchable memory pack; 100% local
 
 ## Email
 
