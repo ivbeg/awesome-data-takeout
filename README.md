@@ -43,6 +43,7 @@ Awesome list of data export pages/tools for most common online services
 ## Email
 
 * [ProtonMail](https://protonmail.com/import-export) - ProtonMail import-export tools allows to export emails to mbox/eml file formats
+* [Mail Archive PDF](https://mailtopdf.top) - convert EML, MBOX, or a Google Takeout mail export into PDF in the browser; the archive is processed locally and is not uploaded
 
 ## Business tools
 
