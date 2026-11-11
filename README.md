@@ -48,6 +48,7 @@ Awesome list of data export pages/tools for most common online services
 ## Messengers
 
 * [Telegram](https://telegram.org/blog/export-and-more) - open desktop app, use "Settings" > "Advanced" > "Export Telegram Data"
+* [Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - self-hosted tool that saves your Telegram messages and media to your own disk on a schedule, keeps edits and deleted messages, and shows them in a web viewer
 * [Viber](https://help.viber.com/en/article/request-review-and-delete-your-data-on-viber) - an article about how to request, review or delete your data from Viber
 * [Whatsapp](https://faq.whatsapp.com/general/account-and-profile/how-to-request-your-account-information/?lang=en) - request your account info excluding chat history which must be exported separately ([learn more](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en))
 
