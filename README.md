@@ -104,3 +104,4 @@ Awesome list of data export pages/tools for most common online services
 * [Etsy](https://www.etsy.com/your/account/privacy) - use "Request your data for download" button to get data as CSV and JSON files
 * [Pinboard](https://pinboard.in/settings/backup) - export your Pinboard bookmarks
 * [Spotify](https://www.spotify.com/account/privacy/) - use "Download your data" tool in your account page ([learn more](https://support.spotify.com/us/article/data-rights-and-privacy-settings/))
+* [Goodreads](https://www.goodreads.com/dsar/user) - export your reading lists as CSV. 
