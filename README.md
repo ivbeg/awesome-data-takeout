@@ -2,6 +2,17 @@
 
 Awesome list of data export pages/tools for most common online services
 
+> [!WARNING]
+> **Contribution rules**
+>
+> * Pull requests and issues created by AI agents (automated or AI-generated submissions) are **not accepted** and will be closed without review.
+> * Commercial services and tools (paid, freemium, SaaS, "export as a service", etc.) are **not accepted**.
+> * Only two kinds of links are accepted:
+>   * links to the official data export (takeout) pages of the services themselves;
+>   * free and open source tools with a public repository and an OSI-approved license.
+>
+> See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ### Table of contents
 
 * [Search-engines](#search-engines)
